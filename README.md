@@ -10,3 +10,5 @@ I want to see a list of all my bookmarks
   Domain Model 1
 Nouns: busy person, favourite webpages, list of bookmarks
 Verbs: revisit, see
+
+![Bookmark Manager Domain Model](.public/images/bookmark_manager_1.png)
