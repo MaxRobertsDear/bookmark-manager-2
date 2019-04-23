@@ -11,4 +11,4 @@ I want to see a list of all my bookmarks
 Nouns: busy person, favourite webpages, list of bookmarks
 Verbs: revisit, see
 
-![Bookmark Manager Domain Model](.public/images/bookmark_manager_1.png)
+![Bookmark Manager Domain Model](./public/images/bookmark_manager_1.png)
