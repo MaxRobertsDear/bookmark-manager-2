@@ -6,3 +6,5 @@ gem 'sinatra'
 gem 'rspec'
 gem 'capybara'
 gem "rubocop", "~> 0.67.2"
+
+gem "pg", "~> 1.1"
