@@ -9,8 +9,6 @@ gem "rubocop", "~> 0.67.2"
 
 gem "pg", "~> 1.1"
 
-gem "dotenv", "~> 2.7"
-
 gem "simplecov", "~> 0.16.1"
 
 gem "simplecov-console", "~> 0.4.2"
